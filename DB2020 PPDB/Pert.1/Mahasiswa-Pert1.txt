@@ -1,0 +1,13 @@
+Mahasiswa-Pert1
+- Tgl Pake Varchar
+- AT add
+- AT drop
+- AT Modify (ubah tipe data)
+- AT change
+- drop tabel
+- drop DB
+
+GAGAL
+- Renama kolom
+- Renama Tabel
+- sisip tengah kolom

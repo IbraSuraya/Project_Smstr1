@@ -1,0 +1,2 @@
+Gaji-Pert.1
+- Sum modip (tambah kolom lain lalu dikali)

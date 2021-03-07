@@ -1,0 +1,3 @@
+Orders-Pert.1
+- Cuma Create table, insert dan select standar
+- ada tipe datetime

@@ -1,0 +1,12 @@
+Tabel Customer - DB2020 PPDB
+- Use namadatabse (Mirip Master)
+- SUM + as + Where + or
+- Count + as + Where
+- AVG + as
+- MAX + as
+- MIN + as
+- Kombinasi Agregrat
+- Select + Where =/>/</>=/<=
+- Updaate + set + where
+- Alter Tabel (Isinya Pake Update bukan Insert)
+- Delete

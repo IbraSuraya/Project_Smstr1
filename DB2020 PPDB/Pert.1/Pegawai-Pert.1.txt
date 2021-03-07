@@ -1,0 +1,6 @@
+Pegawai-Pert.1
+- standar
+- ada tipe decimal
+- avg
+- sum
+- count

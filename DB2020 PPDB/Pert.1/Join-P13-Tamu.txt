@@ -1,0 +1,7 @@
+Join-P13-Tamu
+- Right Join
+- Left Join
+- Full Join
+- Kombinasi
+- Inner Join
+- Join
